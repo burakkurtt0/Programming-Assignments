@@ -1,0 +1,20 @@
+ANU Andy
+ANU James
+DEU Michael
+DEU Andy
+ANF Andy Tom
+ANF Quinn Betty
+ANF Ryan Andy
+ANF Otello James
+DEF James Otello
+DEF Camilla Quinn
+DEF Ken Otello
+DEF Betty Dacey
+CF Otello
+CF Ryan
+FPF James 2
+FPF Quinn 2
+SF Ryan 3
+SF Betty 5
+SF Paul 2
+SF Lou 3
